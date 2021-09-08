@@ -76,8 +76,8 @@
     "@types/sass": "^1.16.1",
     "@types/stylus": "^0.48.36",
     "@types/ws": "^7.4.7",
-    "@vue/compiler-dom": "^3.1.5",
-    "acorn": "^8.4.1",
+    "@vue/compiler-dom": "^3.2.10",
+    "acorn": "^8.5.0",
     "acorn-class-fields": "^1.0.0",
     "acorn-static-class-features": "^1.0.0",
     "brotli-size": "^4.0.0",
@@ -118,10 +118,10 @@
     "strip-ansi": "^6.0.0",
     "strip-bom": "^4.0.0",
     "strip-json-comments": "^3.1.1",
-    "terser": "^5.7.1",
+    "terser": "^5.7.2",
     "tsconfig": "^7.0.0",
-    "tslib": "^2.3.0",
+    "tslib": "^2.3.1",
     "types": "link:./types",
-    "ws": "^7.5.3"
+    "ws": "^7.5.4"
   }
 }
